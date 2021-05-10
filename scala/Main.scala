@@ -3,7 +3,9 @@
 Name        : SWM: ScalaWarehouseManager
 Author      : Emanuele Perico
 Version     : 1.0
-Description : //todo add description
+Description : The scenario chosen for this project is that of managing a warehouse:
+              making use of traits and various operations on collections,
+              it is shown a small example of managing goods in stock.
 ==========================================================================================
 */
 

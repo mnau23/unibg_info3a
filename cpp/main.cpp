@@ -3,7 +3,9 @@
 Name        : PhotographicLenses++
 Author      : Emanuele Perico
 Version     : 1.0
-Description : //todo add description
+Description : The scenario chosen for this project is that of photographic lenses:
+			  making use of classes and inheritance, it is shown a small example
+			  for distinguishing between the different existing categories.
 ==========================================================================================
 */
 
