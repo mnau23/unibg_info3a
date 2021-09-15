@@ -1,6 +1,6 @@
-This repository contains codes for "Programming 3" course projects, 2019 @ UniBg.
+This repository contains projects and programming exercises for **Programming 3a** course, 2019 @ [Università degli Studi di Bergamo](https://en.unibg.it/).
 
-> The purpose of this work is simply to show the features of the programming languages studied during the course.
+> The purpose of these projects is simply to show the features of the programming languages studied during the course.
 
 Projects:
 - PhotographicLenses++: project in C++
